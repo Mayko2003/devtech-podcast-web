@@ -1,0 +1,4 @@
+# ignoring .env file
+.env
+# ignoring all files in "tareas" folder
+tareas/*
